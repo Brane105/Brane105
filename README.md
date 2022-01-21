@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on anything that can teach me 
-- 📫 How to reach me no return value /kidding just check me and AKA-luci 
+- 📫 How to reach me @brane105 AKA-luci 
 
 <!---
 Brane105/Brane105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
