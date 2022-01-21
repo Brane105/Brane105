@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brane105
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on anything that can teach me (otherway around i m NOOB here)
+- 💞️ I’m looking to collaborate on anything that can teach me 
 - 📫 How to reach me no return value /kidding just check me and AKA-luci 
 
 <!---
