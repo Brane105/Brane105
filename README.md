@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brane105
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning MEAN Stack 
 - 💞️ I’m looking to collaborate on anything that can teach me 
 - 📫 How to reach me @brane105 AKA-luci 
 
