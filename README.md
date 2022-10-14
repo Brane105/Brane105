@@ -11,8 +11,8 @@ MEAN Stack Developer 🖥,EXTC Engineer 🔌 and Software Engineer 🖥.
 * ✉️  You can contact me at [brane6963@gmail.com](mailto:brane6963@gmail.com)
 * 🚀  I'm currently working on [Capstone Project](http://github.com/Group-1-Project-Grocers-Requirement/project-grocers-requirement)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Angular, React Projects , Backend Nodejs
-* ⚡  Web3 🕸, Blockchain ⛓ and Solidity ⚖
+* 🤝  I'm open to collaborating on Angular, React Projects , Backend Nodejs , MongoDB, MYSQL
+* ⚡  Learning Web3 🕸, Blockchain ⛓ and Solidity ⚖ !!
 
 ### Skills
 
