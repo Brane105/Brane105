@@ -9,7 +9,7 @@ MEAN Stack Developer 🖥,EXTC Engineer 🔌 and Software Engineer 🖥.
 * 🌍  I'm based in Mumbai
 * 🖥️  See my python portfolio at [Replit](http://replit.com/@BhalchandraRane)
 * ✉️  You can contact me at [brane6963@gmail.com](mailto:brane6963@gmail.com)
-* 🚀  I'm currently working on [Capstone Project](http://github.com/Group-1-Project-Grocers-Requirement/project-grocers-requirement)
+* 🚀  I'm currently working on [React](https://github.com/Brane105/Rental-App-Using-React---Tailwind-CSS-and-Firebase)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Angular, React Projects , Backend Nodejs , MongoDB, MYSQL
 * ⚡  Learning Web3 🕸, Blockchain ⛓ and Solidity ⚖ !!
