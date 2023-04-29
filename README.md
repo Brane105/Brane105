@@ -6,7 +6,7 @@ MEAN Stack Developer 🖥,EXTC Engineer 🔌 and Software Engineer 🖥.
 
 👾 Results-driven, analytical, Problem solving collaborator with strong innovative mindset, and have secured certifications in Data Science , PostgreSQL, hands-on Workshop in introduction Statistical Computing and Data Analysis Tools Python and R, CoTraining MEAN Stack developer, Academics I have done Graduation in Bachelors of Engineering trade Electronics and Telecommunication Engineering , Currently I am working in as Software Engineer at Rigved Technologies
 
-* 🌍  I'm based in Mumbai
+* 🌍  AI is the Future
 * 🖥️  See my python portfolio at [Replit](http://replit.com/@BhalchandraRane)
 * ✉️  You can contact me at [brane6963@gmail.com](mailto:brane6963@gmail.com)
 * 🚀  I'm currently working on [React](https://github.com/Brane105/Rental-App-Using-React---Tailwind-CSS-and-Firebase)
