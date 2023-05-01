@@ -8,7 +8,7 @@ MEAN Stack Developer 🖥,EXTC Engineer 🔌 and Software Engineer 🖥.
 
 * 🌍  AI is the Future
 * 🖥️  See my python portfolio at [Replit](http://replit.com/@BhalchandraRane)
-* ✉️  You can contact me at https://twitter.com/bd_rane
+* ✉️  You can contact me at [bdrane](https://twitter.com/bd_rane)
 * 🚀  I'm currently working on [React](https://github.com/Brane105/Rental-App-Using-React---Tailwind-CSS-and-Firebase)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Angular, React Projects , Backend Nodejs , MongoDB, MYSQL
