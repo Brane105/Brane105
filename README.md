@@ -1,4 +1,4 @@
-Hi 👋 My name is Bhalchandra Rane
+Hi 👋 My name is B Rane
 ==================================
 
 MEAN Stack Developer 🖥,EXTC Engineer 🔌 and Software Engineer 🖥
