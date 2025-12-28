@@ -25,11 +25,10 @@ const bRane = {
     technologies: {
         frontEnd: ["React", "Angular", "HTML5", "CSS3", "Bootstrap", "Tailwind"],
         backEnd: ["Node.js", "Express", "Spring Boot"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL","MsSql"],
         cloud: ["Azure"],
         devOps: ["Docker", "Kubernetes", "Git"],
         tools: ["Vercel", "Railway", "Firebase", "Supabase"],
-        emerging: ["Web3", "Blockchain", "Solidity"]
     },
     currentFocus: "Building scalable full-stack applications",
     funFact: "AI is the Future 🤖"
