@@ -17,7 +17,7 @@ Results-driven **Full Stack Developer** with **4+ years of professional experien
 🎓 **B.E. in Electronics & Telecommunication Engineering**  
 💼 **Current Role**: Software Engineer @ Reliance Industries Ltd  
 🏢 **Previous**: Software Engineer @ Rigved Technologies  
-🌐 **Portfolio**: [Replit Projects](http://replit.com/@BhalchandraRane)
+🌐 **Portfolio**: [brane-portfolio-app.vercel.app](https://brane-portfolio-app.vercel.app/)
 
 ```javascript
 const bRane = {
@@ -28,6 +28,7 @@ const bRane = {
         databases: ["MongoDB", "MySQL", "PostgreSQL"],
         cloud: ["Azure"],
         devOps: ["Docker", "Kubernetes", "Git"],
+        tools: ["Vercel", "Railway", "Firebase", "Supabase"],
         emerging: ["Web3", "Blockchain", "Solidity"]
     },
     currentFocus: "Building scalable full-stack applications",
@@ -75,6 +76,49 @@ const bRane = {
 
 ---
 
+## 🛠️ Tools & Platforms
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/><br>
+<sub><b>Vercel</b></sub><br>
+<sub>Deployment & Hosting</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/><br>
+<sub><b>Railway</b></sub><br>
+<sub>Backend Deployment</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/><br>
+<sub><b>Firebase</b></sub><br>
+<sub>Backend as a Service</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/><br>
+<sub><b>Supabase</b></sub><br>
+<sub>Open Source Firebase Alternative</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br>
+<sub><b>GitHub</b></sub><br>
+<sub>Version Control & CI/CD</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/><br>
+<sub><b>VS Code</b></sub><br>
+<sub>Primary IDE</sub>
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 ## 🎯 What I'm Up To
 
 - 🔭 Currently working on **enterprise-scale applications** at Reliance Industries
@@ -89,48 +133,82 @@ const bRane = {
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 CarPool Application
+[![CarPool App](https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://carpoolfrontend.vercel.app/)
+
+<img src="https://raw.githubusercontent.com/Brane105/Brane105/main/assets/carpool.png" width="100%" alt="CarPool App"/>
+
+**Tech Stack:** React, Node.js, MongoDB, Express  
+A modern carpooling platform connecting drivers and passengers for shared rides. Features real-time booking, route optimization, and secure payments.
+
+</td>
+<td width="50%">
+
+### 💼 Portfolio Website
+[![Portfolio](https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://brane-portfolio-app.vercel.app/)
+
+<img src="https://raw.githubusercontent.com/Brane105/Brane105/main/assets/portfolio.png" width="100%" alt="Portfolio"/>
+
+**Tech Stack:** React, TypeScript, Tailwind CSS  
+Personal portfolio showcasing projects, skills, and professional experience with modern UI/UX design and smooth animations.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏠 Real Estate Application
+[![Realtor App](https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://real-estate-application-five.vercel.app/)
+
+<img src="https://raw.githubusercontent.com/Brane105/Brane105/main/assets/realtor.png" width="100%" alt="Real Estate App"/>
+
+**Tech Stack:** React, Firebase, Tailwind CSS  
+Comprehensive property listing platform with advanced search filters, virtual tours, and agent contact system.
+
+</td>
+<td width="50%">
+
+### ⏰ Punch-Out Time Calculator
+[![Punch Calculator](https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://punch-out-time-calculator.vercel.app/)
+
+<img src="https://raw.githubusercontent.com/Brane105/Brane105/main/assets/calculator.png" width="100%" alt="Punch Calculator"/>
+
+**Tech Stack:** React, JavaScript, CSS  
+Utility tool for calculating work hours with overtime tracking. Clean interface for time management and productivity.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📋 Kanban Board Application
+[![Kanban App](https://img.shields.io/badge/Live_Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=white)](https://kanban-board-application-ykx9.vercel.app/)
+
+<img src="https://raw.githubusercontent.com/Brane105/Brane105/main/assets/kanban.png" width="100%" alt="Kanban Board"/>
+
+**Tech Stack:** React, Redux, LocalStorage  
+Drag-and-drop task management system with multiple boards, labels, and priority settings for agile workflows.
+
+</td>
+<td width="50%">
+
 ### 🔥 Data Science Business Solution
-<a href="https://github.com/Brane105/Data-science-Final-Project-real-life-Business-Problem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brane105&repo=Data-science-Final-Project-real-life-Business-Problem&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true&border_radius=10" width="48%" />
-</a>
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Brane105/Data-science-Final-Project-real-life-Business-Problem)
 
-*Real-world business problem solving using data science techniques and statistical analysis*
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Brane105&repo=Data-science-Final-Project-real-life-Business-Problem&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true" width="100%"/>
 
----
+**Tech Stack:** Python, Pandas, Scikit-learn  
+Machine learning project solving real-world business problems using data analysis and predictive modeling.
 
-### 📱 Contact Manager Application
-<a href="https://github.com/Brane105/Contact-Manager-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brane105&repo=Contact-Manager-App&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true&border_radius=10" width="48%" />
-</a>
-
-*Full-stack contact management system with CRUD operations and modern UI*
-
----
-
-### 🏠 Rental App (React + Firebase)
-<a href="https://github.com/Brane105/Rental-App-Using-React---Tailwind-CSS-and-Firebase">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brane105&repo=Rental-App-Using-React---Tailwind-CSS-and-Firebase&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true&border_radius=10" width="48%" />
-</a>
-
-*Modern rental application built with React, Tailwind CSS, and Firebase backend*
-
----
-
-### 🎓 Rigved Students Activity Tracker
-<a href="https://github.com/Brane105/rigved-students-activity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brane105&repo=rigved-students-activity&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true&border_radius=10" width="48%" />
-</a>
-
-*Student activity management and tracking system for educational institutions*
-
----
-
-### 🎮 Rock Paper Scissors Game
-<a href="https://github.com/Brane105/Rock-paper-scissors-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Brane105&repo=Rock-paper-scissors-&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&bg_color=0d1117&hide_border=true&border_radius=10" width="48%" />
-</a>
-
-*Interactive game built with vanilla JavaScript showcasing DOM manipulation*
+</td>
+</tr>
+</table>
 
 </div>
 
