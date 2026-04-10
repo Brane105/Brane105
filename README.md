@@ -1,7 +1,7 @@
 # Bhalchandra Rane
 
 Full Stack Engineer | AI Engineer (LLMs, RAG, Systems)  
-4+ years building enterprise-grade applications at Reliance Industries (5000+ users)
+4+ years building enterprise-grade applications at Reliance Industries
 
 ---
 
