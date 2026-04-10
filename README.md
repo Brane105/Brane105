@@ -79,6 +79,6 @@ LLMs (GPT, Claude, Ollama), RAG, Vector Embeddings, Prompt Engineering
 
 ## 📫 Contact
 
-- Email: brane6962@proton.me  
+- Email: bhalchandrarane057@gmail.com
 - Portfolio: https://brane-portfolio-app.vercel.app/  
 - LinkedIn: https://linkedin.com/in/brane  
