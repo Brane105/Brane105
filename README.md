@@ -1,84 +1,54 @@
-# Bhalchandra Rane
+<div align="center">
 
-Full Stack Engineer | AI Engineer (LLMs, RAG, Systems)  
-4+ years building enterprise-grade applications at Reliance Industries (5000+ users)
+# 👋 Hi, I'm **Bhalchandra Rane**
 
----
+### 🚀 Full Stack Engineer • AI Engineer • System Builder
 
-## 🚀 About
-
-Engineer focused on building **scalable backend systems and AI-powered applications**.
-
-- Designed and built enterprise systems used across multiple industrial sites  
-- Experience in **high-impact workflows (compliance, safety, operations)**  
-- Currently building **LLM-based systems (RAG, AI assistants, automation tools)**  
-
-Strong focus on:
-- System design
-- Backend scalability
-- AI integration into real-world systems
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=4%2B+Years+Experience;AI+Systems+%7C+RAG+%7C+LLMs;Scaling+Apps+for+5000%2B+Users;Backend+%2B+Cloud+%2B+AI" />
 
 ---
 
-## 💼 Experience
+<!-- Animated Gradient Badges -->
+<img src="https://img.shields.io/badge/AI%20Engineer-00F7FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/Full%20Stack-111?style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img src="https://img.shields.io/badge/System%20Design-0A192F?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/5000%2B%20Users-00C853?style=for-the-badge&logo=users&logoColor=white" />
 
-**Reliance Industries Ltd — Software Engineer**  
-Jan 2024 – Present  
-
-- Built enterprise applications used by **5000+ users**
-- Developed workflow, compliance, and operational systems
-- Implemented CI/CD pipelines using Azure DevOps
-- Deployed containerized applications using Kubernetes  
-
-**Achievement:**  
-- Built *Self-Verification System* → **Best Solution of the Year (2024–25)**
+</div>
 
 ---
 
-## 🤖 Selected Work
+# 🧩 About Me (Bento Style)
 
-### AI Knowledge Assistant (RAG System)
-- Built document-based AI assistant using **RAG architecture**
-- Implemented:
-  - Document ingestion pipeline
-  - Vector embeddings & semantic search
-  - LLM-based response generation
-- Stack: Node.js, React, MongoDB, Ollama  
+<div align="center">
 
----
+| 🧠 AI Engineer | ⚙️ Backend Systems |
+|--------------|----------------|
+| Building RAG, LLM apps | Node.js, APIs, workflows |
+| Automation systems | Scalable architecture |
 
-### Enterprise Workflow Systems
-- Designed systems for:
-  - Compliance tracking  
-  - Safety workflows  
-  - Industrial operations  
-- Used across multiple sites with real users
+| ☁️ Cloud & DevOps | 💼 Enterprise Impact |
+|-----------------|------------------|
+| Azure • Docker • K8s | 5000+ users |
+| CI/CD pipelines | Award-winning systems |
+
+</div>
 
 ---
 
-## 🛠️ Tech
+# 🤖 AI System Architecture
 
-**Languages:** JavaScript, TypeScript, Python, Java  
-**Frontend:** Angular, React  
-**Backend:** Node.js, Express  
-**Databases:** MongoDB, MSSQL, MySQL  
-**Cloud & DevOps:** Azure, Docker, Kubernetes, CI/CD  
+<div align="center">
 
-**AI:**  
-LLMs (GPT, Claude, Ollama), RAG, Vector Embeddings, Prompt Engineering  
-
----
-
-## 🎯 Current Focus
-
-- Building production-ready **AI systems**
-- Scaling backend systems for real-world use
-- Exploring **LLM + system design intersection**
-
----
-
-## 📫 Contact
-
-- Email: bhalchandrarane057@gmail.com 
-- Portfolio: https://brane-portfolio-app.vercel.app/  
-- LinkedIn: https://linkedin.com/in/brane  
+```mermaid
+flowchart LR
+    A[User Query] --> B[Frontend - React]
+    B --> C[Node.js Backend]
+    C --> D[Document Loader]
+    D --> E[Chunking]
+    E --> F[Vector Embeddings]
+    F --> G[Vector DB (MongoDB Atlas)]
+    G --> H[Semantic Search]
+    H --> I[LLM (Ollama / GPT)]
+    I --> J[Response]
+    J --> B
